@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil do GitHub!
 
 - [Challenge-Amigo-Secreto-](https://github.com/akaThigas/Challenge-Amigo-Secreto-)
 - [POO---JAVA](https://github.com/akaThigas/POO---JAVA)
-
+- [PythonPOO](https://github.com/akaThigas/PythonPOO)
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-Thiago%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-henrique-6136352b2)](https://www.linkedin.com/in/thiago-henrique-6136352b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
