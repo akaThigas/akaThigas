@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
 
-- 💼 **Profissão:** Auxiliar Administrativo
-- 🎓 **Graduação:** Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas
+- 💼 **Profissão:** Auxiliar de Suporte 
+- 🎓 **Graduação:** Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas
 - 💻 **Principais skills:** Java · Python
 - 🚀 Buscando evoluir na área de tecnologia, sempre aprendendo e compartilhando conhecimento.
 
